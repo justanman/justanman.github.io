@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>justanman.org</title>
-    <link>justanman.org/</link>
+    <link>justanman.github.io/</link>
     <description>Recent content on justanman.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Aug 2020 17:00:00 +0000</lastBuildDate>
     
-	<atom:link href="justanman.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="justanman.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Noob&#39;s Guide to GPT-3: First Impressions</title>
-      <link>justanman.org/posts/a-noobs-guide-to-gpt-3/</link>
+      <link>justanman.github.io/posts/a-noobs-guide-to-gpt-3/</link>
       <pubDate>Sat, 01 Aug 2020 17:00:00 +0000</pubDate>
       
-      <guid>justanman.org/posts/a-noobs-guide-to-gpt-3/</guid>
+      <guid>justanman.github.io/posts/a-noobs-guide-to-gpt-3/</guid>
       <description>Once upon a time, I wanted to be a writer. In the fourth grade, I wrote an article about how you could catch a fish by wrapping a string around a peanut butter sandwich and then throwing it in the water. I remember my teacher, Mrs. Thaler, laughing and saying, “That’s the most ridiculous thing I’ve ever heard!” I guess she wasn’t impressed with my writing skills.
  Can you believe a computer wrote that entire passage?</description>
     </item>
     
     <item>
       <title>The Last Message Sent on AIM</title>
-      <link>justanman.org/posts/the-last-message-sent-on-aim/</link>
+      <link>justanman.github.io/posts/the-last-message-sent-on-aim/</link>
       <pubDate>Sun, 17 Dec 2017 00:00:00 -0500</pubDate>
       
-      <guid>justanman.org/posts/the-last-message-sent-on-aim/</guid>
+      <guid>justanman.github.io/posts/the-last-message-sent-on-aim/</guid>
       <description>In the early 2000s social media sites like Facebook and Twitter weren’t commonplace yet. Even text messages, at ten cents each, were something to be rationed. For many teenagers the primary means of communication outside school was AOL Instant Messenger (AIM). So when it was announced in October that they were shutting down AIM after 20 years, I felt a wave of nostalgia for the messaging app of my youth.</description>
     </item>
     
